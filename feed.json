@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SDN Sungai Dalam 1",
+    "description": "",
+    "home_page_url": "https://sdnsungaidalam1.netlify.app",
+    "feed_url": "https://sdnsungaidalam1.netlify.app/feed.json",
+    "user_comment": "",
+    "icon": "https://sdnsungaidalam1.netlify.app/media/website/navbar-2.png",
+    "author": {
+        "name": "Deddy Hidayat"
+    },
+    "items": [
+    ]
+}
